@@ -1,6 +1,7 @@
 00001 REM                               (C)Richard Garrott
 00002 REM                               PORT BY Mundi King
 00003 REM TESTED WITH http://calormen.com/jsbasic/
+00004 TRACE
 00010 LET J4=1
 00030 PRINT
 
